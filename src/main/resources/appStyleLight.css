@@ -1,0 +1,25 @@
+
+/* Vamos utilizar "seletores" para agrupar propriedades a aplicar */
+
+.root {
+    -fx-base: white;
+    -fx-background: white;
+}
+
+.button {
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+}
+
+.label {
+    -fx-font-style: italic;
+}
+
+.text-field {
+
+}
+
+.myEqual {
+    -fx-background-color: mediumorchid;
+    -fx-text-fill: white;
+}
